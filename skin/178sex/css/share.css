@@ -1,0 +1,25 @@
+.bdsharebuttonbox{position:relative;float:right;display:block}
+
+.bdsharebuttonbox a{    display: inline-block;
+
+    width: 32px;
+    height: 32px;
+    background-image: url(../images/share.png);
+    -webkit-background-size: 311px 52px;
+    -o-background-size: 311px 52px;
+    background-size: 311px 52px;
+    text-indent: -1000px;
+    margin-right: 5px;
+}
+
+.bdsharebuttonbox  .bds_more{    background-position: -233px -10px;}
+.bdsharebuttonbox  .bds_sqq{    background-position: -121px -10px;}
+.bdsharebuttonbox  .bds_weixin{    background-position: -47px -10px;}
+.bdsharebuttonbox  .bds_tsina{    background-position: -121px -10px;}
+.bdsharebuttonbox  .bds_qzone{    background-position: -195px -10px;}
+.bdsharebuttonbox  .bds_tqq{    background-position: -84px -10px;}
+.bdsharebuttonbox  .bds_renren{    background-position: -121px -10px;}
+.bdsharebuttonbox  .bds_tieba{    background-position: -121px -10px;}
+.bdsharebuttonbox  .bds_tsohu{    background-position: -121px -10px;}
+.bdsharebuttonbox  .bds_douban{    background-position: -121px -10px;}
+.bdsharebuttonbox  .bds_ty{    background-position: -121px -10px;}
